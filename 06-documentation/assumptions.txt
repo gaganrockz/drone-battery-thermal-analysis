@@ -1,0 +1,9 @@
+THERMAL MODEL ASSUMPTIONS
+1. Steady-state thermal analysis for each flight condition
+2. Uniform heat generation across all battery cells
+3. Incompressible airflow (Mach number < 0.3)
+4. Negligible radiation heat transfer
+5. Constant material properties within operating range
+6. Battery cells: 6S LiPo (22.2V, 5000mAh)
+7. Cell dimensions: 22mm × 45mm × 70mm
+8. Ambient temperature: 25°C

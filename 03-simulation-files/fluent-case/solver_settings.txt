@@ -1,0 +1,17 @@
+SOLVER SETTINGS
+
+Solver Type: Pressure-Based
+Time: Steady-State
+Turbulence Model: k-ε Realizable
+Energy Equation: ON
+
+Solution Methods:
+- Pressure-Velocity Coupling: SIMPLE
+- Spatial Discretization: Second Order Upwind
+
+Convergence Criteria: Residuals < 1e-4
+
+Material Properties:
+- Air: density=1.225 kg/m³, Cp=1005 J/kg·K, k=0.024 W/m·K
+- Battery Cell: density=2100 kg/m³, Cp=1200 J/kg·K, k=2.5 W/m·K (anisotropic)
+- Aluminum Casing: density=2700 kg/m³, Cp=896 J/kg·K, k=167 W/m·K
