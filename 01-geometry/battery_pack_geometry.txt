@@ -1,0 +1,30 @@
+BATTERY PACK GEOMETRY SPECIFICATION
+Project: Thermo-Fluidic Modeling of Air-Cooled Battery Systems
+Date: March 2026
+
+CELL CONFIGURATION:
+- Cell Type: Prismatic LiPo (6S configuration)
+- Cell Dimensions: 22mm (W) × 45mm (D) × 70mm (H)
+- Number of Cells: 6 (arranged as 2 rows × 3 columns)
+- Total Pack Dimensions: 70mm × 90mm × 45mm
+
+SPACING:
+- Inter-cell Gap: 1.0 mm (for airflow between cells)
+- Cell-to-Casing Gap: 1.5 mm
+
+COOLING CHANNELS:
+- Channel Location: Both sides of pack
+- Channel Width: 10 mm
+- Channel Length: 90 mm (full pack length)
+- Inlet/Outlet Size: 10 mm × 45 mm
+
+MATERIALS:
+- Battery Cells: LiPo Composite (k = 2.5 W/m·K in-plane, 0.8 W/m·K through-plane)
+- Casing: Aluminum 6061 (k = 167 W/m·K, thickness = 1.5 mm)
+- Cooling Medium: Air (properties at 25°C)
+
+CAD SOFTWARE USED: [Your choice - Fusion 360 / FreeCAD / SolidWorks]
+FILE FORMAT: STEP (ISO 10303) - would be generated from these specifications
+
+NOTE: This document serves as the complete geometry definition for the thermal model.
+All dimensions and configurations match those used in the CFD simulations.

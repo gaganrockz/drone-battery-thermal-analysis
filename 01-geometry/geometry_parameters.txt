@@ -1,0 +1,13 @@
+BATTERY PACK GEOMETRY PARAMETERS
+
+Cell Type: Prismatic LiPo
+Cell Dimensions (each): 22mm (W) × 45mm (D) × 70mm (H)
+Number of Cells: 6 (2 rows × 3 columns)
+Total Pack Dimensions: 70mm (W) × 90mm (D) × 45mm (H)
+Inter-cell Gap: 1mm
+Casing Thickness: 1.5mm (Aluminum 6061)
+Cooling Channel Width: 10mm (both sides)
+Channel Length: 90mm
+Inlet/Outlet Size: 10mm × 45mm
+
+CAD Software Used: [Fusion 360 / SolidWorks / FreeCAD]
