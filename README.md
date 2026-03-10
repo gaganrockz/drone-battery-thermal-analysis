@@ -11,3 +11,4 @@ Thermo-fluidic modeling of air-cooled LiPo battery pack for UAV operations.
 05-report/ - Final report and screenshots
 06-documentation/ - Assumptions, equations, contributions
 
+
